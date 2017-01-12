@@ -523,6 +523,6 @@
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
 <!-- END AOSP -->
 
-  <project path="device/huawei/h30_t10" name="qq505916481/android_device_huawei_h30_t10" revision="master" />
-  <project path="vendor/huawei/h30_t10" name="qq505916481/android_vendor_huawei_h30_t10" revision="master" />
+  <project path="device/Huawei/h30_t10" name="qq505916481/android_device_huawei_h30_t10" revision="master" />
+  <project path="vendor/Huawei/h30_t10" name="qq505916481/android_vendor_huawei_h30_t10" revision="master" />
 </manifest>
